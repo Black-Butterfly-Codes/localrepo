@@ -1,7 +1,9 @@
 #include <stdio.h>
-int main ()
+
+int main()
 {
-printf("> Welcome to my first GitHub repository! \nThis demo repository was created as part of my GitHub learning journey to explore GitHub features, practice Git commands, test commits and branches, and learn version control workflows. 
-");
-return 0 ;
+    printf("> Welcome to my first GitHub repository!\n");
+    printf("This demo repository was created as part of my GitHub learning journey to explore GitHub features, practice Git commands, test commits and branches, and learn version control workflows.\n");
+
+    return 0;
 }
